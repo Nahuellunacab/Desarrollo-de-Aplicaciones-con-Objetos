@@ -1,0 +1,21 @@
+# Archivos compilados de Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Entornos virtuales
+.venv/
+venv/
+
+# Archivos temporales de tests
+.pytest_cache/
+.coverage
+htmlcov/
+
+# Configuración de editores
+.vscode/
+.idea/
+
+# Archivos de sistema (Windows / macOS)
+.DS_Store
+Thumbs.db
